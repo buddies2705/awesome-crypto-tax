@@ -83,6 +83,7 @@ This list covers:
 - [🌀 DeFi-Specialist Tax Tools](#-defi-specialist-tax-tools)
 - [🎨 NFT-Specialist Tax Tools](#-nft-specialist-tax-tools)
 - [🐳 Memecoin / High-Volume Trader Tax Tools](#-memecoin--high-volume-trader-tax-tools)
+- [🎯 Prediction Market / Event Contract Tax](#-prediction-market--event-contract-tax)
 - [🏢 Enterprise & Institutional Crypto Accounting](#-enterprise--institutional-crypto-accounting)
 - [🆓 Free & Open-Source Tax Tools](#-free--open-source-tax-tools)
 - [📊 Tax-Loss Harvesting Tools](#-tax-loss-harvesting-tools)
@@ -279,6 +280,16 @@ NFT mints, royalties, fractionalisation, gas costs, and lazy-mint events all nee
 | 🎟️ **CoinTracking** | Handles 100K+ transactions, deep filtering | 🟢 Live | [cointracking.info](https://cointracking.info?ref=T987862) |
 | 🆓 **Stake.tax** | Free Solana export — best for high-volume Solana memecoin traders | 🟢 Live | [stake.tax](https://stake.tax) |
 | **Netrunner** | Solana memecoin / perp trader specialist | 🟢 Live | [netrunner.tax](https://www.netrunner.tax/) |
+
+---
+
+## 🎯 Prediction Market / Event Contract Tax
+
+Kalshi and Polymarket event-contract income has unsettled tax treatment (ordinary income vs Section 1256 60/40 vs gambling), and the platforms send little or no consolidated 1099. These tools handle prediction-market PnL and tax classification specifically.
+
+| Tool | Notable Features | Status | Website |
+| --- | --- | --- | --- |
+| 🆓 **ContractTax** | Kalshi trade-history import, tax numbers under every treatment (ordinary / Section 1256 / gambling), P&L, performance analytics, free guides and calculators | 🟢 Live | [contracttax.com](https://www.contracttax.com) |
 
 ---
 
