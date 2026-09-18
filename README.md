@@ -529,6 +529,8 @@ Official guidance from the world's tax authorities. Bookmark whichever applies t
 - [CoinLedger — Crypto Losses Guide](https://coinledger.io/crypto-losses)
 - [Koinly — Tax-Loss Harvesting Strategy](https://koinly.io/blog/crypto-tax-loss-harvesting/)
 - [ZenLedger — TLH Report Guide](https://www.zenledger.io)
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted MCP server: free token-safety scans (A+–F grades) across Solana and 7 EVM chains, plus x402-paid analytics endpoints.
+
 
 ---
 
