@@ -314,6 +314,7 @@ For DAOs, funds, treasury teams, exchanges, and on-chain businesses with audit /
 | 🆓 **TaxBit Free** | Free up to 500 tx | US-focused | 🟢 Live | [taxbit.com](https://taxbit.com/?fp_ref=up6nz) |
 | 🆓 **CoinTracking Free** | Free up to 200 tx | Long-running | 🟢 Live | [cointracking.info](https://cointracking.info?ref=T987862) |
 | 🆓 **CryptFolio** | Open-source portfolio + tax helper | Limited support | 🟢 Live | [cryptfolio.com](https://cryptfolio.com) |
+| 🆓 **One Cursor Crypto CSV Narrative Inspector** | Open-source browser-local crypto CSV import preflight | Review-only quantity/ticker candidates from purchase/sale descriptions; no uploads, tax basis, or auto-import | 🟢 Live | [Try free tool](https://livastic-vm2-primary-20260911.github.io/workflow-risk-usdc-studio/csv/narrative/) |
 | 🆓 **BittyTax** | Open-source UK CGT calculator | UK-only | 🟢 Live | [GitHub — BittyTax](https://github.com/BittyTax/BittyTax) |
 | 🆓 **CoinTaxes (Python)** | Open-source script for FIFO/LIFO | Self-host | 🟢 Live | [GitHub — coin-taxes](https://github.com/topics/crypto-tax) |
 
